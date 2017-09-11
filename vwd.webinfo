@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.jbinterface" ID="{6CFA0391-8510-4E43-A866-834A61562154}\1.0\0"/>
+  </comReferences>
+</VisualWebDeveloper>
